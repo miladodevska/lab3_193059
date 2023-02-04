@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457849847182",
+    "project_id": "mobilnisistemilab",
+    "storage_bucket": "mobilnisistemilab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457849847182:android:8b9492f8293286eeb778df",
+        "android_client_info": {
+          "package_name": "com.example.lab3_193059"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457849847182-6racfvb2i1cjdfjn5pp9vmeq3lu4jj9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfCNeIUjSba8Vwuptm6pTRMrsycKbZAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457849847182-6racfvb2i1cjdfjn5pp9vmeq3lu4jj9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
